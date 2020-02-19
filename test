@@ -349,7 +349,7 @@
 </FDL>
 
 
--------------------------------
+
 this.fn_name = function(arg){
 	return arg+"행";
 }
